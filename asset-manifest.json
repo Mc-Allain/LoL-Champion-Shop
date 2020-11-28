@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/LoL-Champion-Shop/static/css/main.79ba0d26.chunk.css",
-    "main.js": "/LoL-Champion-Shop/static/js/main.5c25f157.chunk.js",
-    "main.js.map": "/LoL-Champion-Shop/static/js/main.5c25f157.chunk.js.map",
+    "main.js": "/LoL-Champion-Shop/static/js/main.e1c6f792.chunk.js",
+    "main.js.map": "/LoL-Champion-Shop/static/js/main.e1c6f792.chunk.js.map",
     "runtime-main.js": "/LoL-Champion-Shop/static/js/runtime-main.45955640.js",
     "runtime-main.js.map": "/LoL-Champion-Shop/static/js/runtime-main.45955640.js.map",
-    "static/js/2.30addc81.chunk.js": "/LoL-Champion-Shop/static/js/2.30addc81.chunk.js",
-    "static/js/2.30addc81.chunk.js.map": "/LoL-Champion-Shop/static/js/2.30addc81.chunk.js.map",
+    "static/js/2.98c5dd05.chunk.js": "/LoL-Champion-Shop/static/js/2.98c5dd05.chunk.js",
+    "static/js/2.98c5dd05.chunk.js.map": "/LoL-Champion-Shop/static/js/2.98c5dd05.chunk.js.map",
     "index.html": "/LoL-Champion-Shop/index.html",
     "static/css/main.79ba0d26.chunk.css.map": "/LoL-Champion-Shop/static/css/main.79ba0d26.chunk.css.map",
-    "static/js/2.30addc81.chunk.js.LICENSE.txt": "/LoL-Champion-Shop/static/js/2.30addc81.chunk.js.LICENSE.txt"
+    "static/js/2.98c5dd05.chunk.js.LICENSE.txt": "/LoL-Champion-Shop/static/js/2.98c5dd05.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.45955640.js",
-    "static/js/2.30addc81.chunk.js",
+    "static/js/2.98c5dd05.chunk.js",
     "static/css/main.79ba0d26.chunk.css",
-    "static/js/main.5c25f157.chunk.js"
+    "static/js/main.e1c6f792.chunk.js"
   ]
 }
